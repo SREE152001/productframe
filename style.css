@@ -1,0 +1,46 @@
+.c1
+{
+	background-color: orange;
+	 
+	text-align: center;
+	padding: 25px;
+	
+	
+
+	
+
+}
+.c2
+{
+	background-color: black;
+	height: 1000px;
+	border-left: 25px orange solid;
+	border-right: 25px orange solid;
+	color: white;
+	text-align: center;
+
+}
+
+.c3
+{
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+
+#tarea
+{
+	width: 500px;
+	height: 200px;
+}
+#end
+{
+	color: green;
+}
+#bu
+{
+	color: red;
+	width: 100px;
+	height: 60px;
+	background-color: yellow;
+}
+
